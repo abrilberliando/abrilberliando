@@ -6,10 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abrilberliando/profilecard/?igsh=NjlkaXA3ZmJmano=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abrilberliando/) 
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abrilberliando&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abrilberliando&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrilberliando&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Streak Graph](https://streak-stats.demolab.com?user=abrilberliando&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
 **My personal website:** [https://web-profile-ashen.vercel.app/home](https://abrilberliando.vercel.app/) 
 **You can reach me at:** [abrilbrlnd2@gmail.com](mailto:abrilbrlnd2@gmail.com)
