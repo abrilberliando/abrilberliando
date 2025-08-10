@@ -8,7 +8,7 @@
 ---
 ![Streak Graph](https://streak-stats.demolab.com?user=abrilberliando&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 
-**My personal website:** [https://web-profile-ashen.vercel.app/home](https://abrilberliando.vercel.app/) 
+**My personal website:** [https://abrilberliando.vercel.app/home](https://abrilberliando.vercel.app/) 
 **You can reach me at:** [abrilbrlnd2@gmail.com](mailto:abrilbrlnd2@gmail.com)
 
 ---
